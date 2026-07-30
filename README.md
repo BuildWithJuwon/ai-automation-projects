@@ -1,14 +1,76 @@
-# n8n Workflows
+# 🤖 BuildWithJuwon Automation Library
 
-A growing collection of n8n workflows built under the BuildWithJuwon brand.
+Welcome to the **BuildWithJuwon Automation Library**.
 
-## Coming Soon
+This repository showcases practical AI and business automation solutions built to help companies eliminate repetitive work, improve productivity, and scale operations with confidence.
+
+---
+
+# 🚀 What You'll Find
+
+This library will continue to grow with real-world automation projects covering:
+
+- 🤖 AI Automation
+- ⚙️ Workflow Automation
+- 🌐 Website Automations
+- 📈 CRM Integrations
+- ☎️ Business Phone Systems
+- 🔗 API Integrations
+- 🧠 AI Agents
+
+---
+
+# 📂 Featured Categories
+
+## n8n Workflows
+
+Business automation using n8n.
+
+## GoHighLevel Automations
+
+CRM, marketing, and sales automation.
+
+## Make.com Workflows
+
+No-code integrations and business processes.
+
+## AI Automation
+
+AI-powered assistants, lead qualification, email generation, and intelligent workflows.
+
+## Business Phone Systems
+
+FreePBX, FusionPBX, Twilio, VoIP, and communication automations.
+
+## Websites
+
+Business websites, landing pages, and automation-enabled web experiences.
+
+---
+
+# 🚧 Current Projects
 
 - AI Lead Qualification
 - Contact Form Automation
-- CRM Integration
-- Gmail Automation
-- Slack Notifications
-- Google Sheets Workflows
+- Smart CRM Workflow
+- AI Receptionist
+- LinkedIn Lead Automation
+- Email Notification System
 
-More projects will be added as they are completed.
+---
+
+# 🎯 Mission
+
+My goal is to build an open portfolio of practical automation projects that solve real business problems and demonstrate how AI and automation can improve everyday operations.
+
+---
+
+## 🤝 Connect With Me
+
+- 💼 LinkedIn
+- 🌐 BuildWithJuwon
+- 📺 YouTube
+- 🐦 X (Twitter)
+- 🎯 Fiverr
+
+> Building AI systems that save time.

@@ -1,76 +1,47 @@
-# 🤖 BuildWithJuwon Automation Library
+# 🤖 BuildWithJuwon Automation Project
 
-Welcome to the **BuildWithJuwon Automation Library**.
+# 🤖 AI Automation Projects
 
-This repository showcases practical AI and business automation solutions built to help companies eliminate repetitive work, improve productivity, and scale operations with confidence.
+Welcome to my AI Automation portfolio.
 
----
+This repository showcases practical AI solutions built to automate business processes, improve customer experience, and increase productivity.
 
-# 🚀 What You'll Find
-
-This library will continue to grow with real-world automation projects covering:
-
-- 🤖 AI Automation
-- ⚙️ Workflow Automation
-- 🌐 Website Automations
-- 📈 CRM Integrations
-- ☎️ Business Phone Systems
-- 🔗 API Integrations
-- 🧠 AI Agents
-
----
-
-# 📂 Featured Categories
-
-## n8n Workflows
-
-Business automation using n8n.
-
-## GoHighLevel Automations
-
-CRM, marketing, and sales automation.
-
-## Make.com Workflows
-
-No-code integrations and business processes.
-
-## AI Automation
-
-AI-powered assistants, lead qualification, email generation, and intelligent workflows.
-
-## Business Phone Systems
-
-FreePBX, FusionPBX, Twilio, VoIP, and communication automations.
-
-## Websites
-
-Business websites, landing pages, and automation-enabled web experiences.
-
----
-
-# 🚧 Current Projects
+## 🚀 Featured Projects
 
 - AI Lead Qualification
 - Contact Form Automation
-- Smart CRM Workflow
+- AI Email Assistant
 - AI Receptionist
-- LinkedIn Lead Automation
-- Email Notification System
+- CRM Automation
+- LinkedIn Lead Scraper
+- Business Process Automation
+
+## Tech Stack
+
+- OpenAI
+- n8n
+- Make.com
+- GoHighLevel
+- HubSpot
+- Twilio
+- Google Workspace
+- REST APIs
+
+## Repository Structure
+
+Each project includes:
+
+- Business Problem
+- Solution Overview
+- Workflow Architecture
+- Screenshots
+- Results
+- Technologies Used
+
+## Mission
+
+Building practical AI systems that help businesses save time and scale smarter.
 
 ---
 
-# 🎯 Mission
-
-My goal is to build an open portfolio of practical automation projects that solve real business problems and demonstrate how AI and automation can improve everyday operations.
-
----
-
-## 🤝 Connect With Me
-
-- 💼 LinkedIn
-- 🌐 BuildWithJuwon
-- 📺 YouTube
-- 🐦 X (Twitter)
-- 🎯 Fiverr
-
-> Building AI systems that save time.
+**BuildWithJuwon**

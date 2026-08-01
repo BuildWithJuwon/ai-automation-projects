@@ -1,7 +1,5 @@
 # 🤖 BuildWithJuwon Automation Project
 
-# 🤖 AI Automation Projects
-
 Welcome to my AI Automation portfolio.
 
 This repository showcases practical AI solutions built to automate business processes, improve customer experience, and increase productivity.
